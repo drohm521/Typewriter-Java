@@ -1,3 +1,3 @@
 # Typewriter-Java
-This is a simple project where I make use of the GUI in Eclipse and a typewriter effect in Java to create a little article. 
-This project also implements the little article into a list, stack, tree, and a queue. There is also an reverse implementation of the article using a stack.
+This project is where I use the GUI within Eclipse using Java. It will be a mini blog article with a typewriter effect displayed in the GUI.
+This project also implements the little article into a list, stack, tree, and a queue. There is also an reverse stack implementation of the article.
